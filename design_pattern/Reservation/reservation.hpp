@@ -14,3 +14,17 @@ class ReservationManager {
 	  std::vector<Table> tables;
 	  std::set<Reservation> res;
 };
+
+class Table {
+     public:
+	 Table();
+     private:
+	 int ID;
+	 int Nseats;
+	 Schedule s;
+};
+
+class Schedule {
+    private:
+	 bool avail;
+};

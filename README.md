@@ -18,3 +18,4 @@ This is to keep track of the problems I practiced on Leetcode.
 |Problem|Pattern|Category|Solution|
 |:---:|:---:|:---:|:---:|
 |Design An ATM machine| state design pattern | behavioral |
+|Restaurant Reservation System | sington pattern | |
