@@ -14,6 +14,7 @@ This is to keep track of the problems I practiced on Leetcode.
 |[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) | C++ | Medium |
 |[Dearrangement of Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) | C++ | Medium |
 |[Smallest Range](https://leetcode.com/problems/smallest-range/description/)| C++ | Hard|
+|[Unique Letter String](https://leetcode.com/problems/unique-letter-string/description/)| C++ | Hard|
 
 ## Design patterns
 
